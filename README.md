@@ -1,1 +1,2 @@
-this is array chapter fig.1
+ array chapter all  fig here
+ 
